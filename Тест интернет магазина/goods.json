@@ -1,0 +1,18 @@
+{
+	"12356":{
+		"title":"Футболка",
+		"prise":200,
+		"image":"img/layer-2.png"
+	},
+	"12357":{
+		"title":"Кофта",
+		"prise":220,
+		"image":"img/layer-3.png"
+	},
+	"12358":{
+		"title":"Костюм",
+		"prise":1000,
+		"image":"img/layer-7.png"
+	}
+
+}
